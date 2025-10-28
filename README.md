@@ -1,8 +1,10 @@
 # Indodax Fee Calculator
 
-A simple, fast, and responsive web application designed to help Indodax traders calculate the total cost of purchasing a cryptocurrency, including transaction fees for both **Limit (Maker)** and **Market (Taker)** orders.
+[indodaxcalculator.netify.app](https://indodaxcalculator.netlify.app/) A simple, fast, and responsive web application designed to help Indodax traders calculate the total cost of purchasing a cryptocurrency, including transaction fees for both **Limit (Maker)** and **Market (Taker)** orders.
 
 This tool provides a clear breakdown of your purchase, showing the net amount used to buy the asset, the platform fee, and the total payment required.
+
+👉 [indodaxcalculator.netlify.app](https://indodaxcalculator.netlify.app/)
 
 ---
 
