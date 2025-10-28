@@ -1,4 +1,3 @@
+Sitemap: https://indodaxcalculator.netlify.app/sitemap.xml
 User-agent: *
 Allow: /
-
-Sitemap: https://indodax-fee-calculator.com/sitemap.xml
