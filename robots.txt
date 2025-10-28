@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://indodax-fee-calculator.com/sitemap.xml
