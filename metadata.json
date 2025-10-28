@@ -1,0 +1,5 @@
+{
+  "name": "Indodax Fee Calculator",
+  "description": "An application to help Indodax traders calculate the total cost of purchasing a coin, including the 0.2222% transaction fee. It allows for quick purchase amount selection using percentages and easy adjustments.",
+  "requestFramePermissions": []
+}
